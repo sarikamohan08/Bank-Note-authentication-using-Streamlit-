@@ -26,5 +26,13 @@ streamlit run app.py
 
 ```
 
+deployed link (via Streamlit cloud)
+
+```
+https://sarikamohan08-bank-note-authentication-using-streaml-app-ijyotu.streamlit.app/
+
+```
+
 output
 ![Screenshot](Capture.PNG)
+
