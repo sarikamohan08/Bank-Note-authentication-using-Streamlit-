@@ -27,4 +27,4 @@ streamlit run app.py
 ```
 
 output
-![Screenshot](Capture.png)
+![Screenshot](Capture.PNG)
